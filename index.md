@@ -6,6 +6,8 @@ The video was ok but wasn't as good as the guy with the fancy scarf! this is i f
 
 **fun Fact: We named our xbox one in binary code so when you search on wifi for it shows as "01111000011000100110111101111000" haha**
 
+---
+
 *What is a string?*
 Strings are characters contained inside single ('') or double ("") quotation marks.
 // Using `""` - double quotation marks
@@ -18,14 +20,14 @@ Strings are characters contained inside single ('') or double ("") quotation mar
 *What is a number?*
 Numbers are any numbers not contained in quotation marks.
 
-15;
+`15;
 5;
-0.5;
+0.5;`
 
 *What are booleans?*
 True or false statements
 
-// Declare a boolean variable
+`// Declare a boolean variable
 let isJavaScriptFun = true;
 
 // Use the boolean variable in a conditional statement
@@ -33,7 +35,7 @@ if (isJavaScriptFun) {
     console.log("JavaScript is fun!");
 } else {
     console.log("JavaScript is not fun.");
-}
+}`
 
 *What is a variable?*
 Variables are used rto store values of some type, there are also special values such as const and let  you  assign something to a variable using the "=" symbol.
